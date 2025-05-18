@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+docker-compose.yml
+node_modules
+.eslintrc.*
+.prettierrc*
+.editorconfig
+.vscode/
+.env.example
+LICENSE.md
+README.md

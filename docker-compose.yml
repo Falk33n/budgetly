@@ -1,0 +1,6 @@
+services:
+  budgetly-sveltekit:
+    build: .
+    container_name: budgetly-sveltekit-app
+    ports:
+      - 9047:9047
